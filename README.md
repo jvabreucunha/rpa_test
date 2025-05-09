@@ -14,7 +14,7 @@ Resolver desafios de RPA que envolvem:
 - Manipulação de diferentes formatos de arquivos
 - Integração entre múltiplas tecnologias
 
-## ✨ Funcionalidades (Melhorado)
+## ✨ Funcionalidades 
 - **Automação web inteligente** com Selenium (incluindo wait conditions e dynamic XPath)
 - **ETL de dados** com manipulação de Excel/CSV via Pandas
 - **OCR básico** para reconhecimento de elementos em telas usando OpenCV
