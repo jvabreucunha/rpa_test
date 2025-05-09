@@ -1,0 +1,7 @@
+selenium>=4.32.0
+webdriver-manager>=4.0.2
+pandas>=2.2.3
+openpyxl>=3.1.5
+requests>=2.31.0
+pytesseract>=0.3.10
+Pillow>=9.4.0
